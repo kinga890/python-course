@@ -1,2 +1,0 @@
-test
-# python-course
